@@ -1,21 +1,9 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Uvaise Mohammed
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
 
 ### 🧰 Languages and Tools
 
@@ -38,24 +26,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Inheritance - Java OOP](https://ytcards.demolab.com/?id=I8rdKkcKbB0&title=Inheritance+-+Java+OOP&lang=en&timestamp=1724601613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "Inheritance - Java OOP")](https://www.youtube.com/watch?v=I8rdKkcKbB0)
-[![Encapsulation - Java OOP](https://ytcards.demolab.com/?id=OSn5A7W45dI&title=Encapsulation+-+Java+OOP&lang=en&timestamp=1724515231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Encapsulation - Java OOP")](https://www.youtube.com/watch?v=OSn5A7W45dI)
-[![Java Data Types](https://ytcards.demolab.com/?id=SKS9UMVW5Mc&title=Java+Data+Types&lang=en&timestamp=1724414437&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=54 "Java Data Types")](https://www.youtube.com/watch?v=SKS9UMVW5Mc)
-[![Java Works On Everything](https://ytcards.demolab.com/?id=s096L3r28f8&title=Java+Works+On+Everything&lang=en&timestamp=1724335251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39 "Java Works On Everything")](https://www.youtube.com/watch?v=s096L3r28f8)
-[![Java Sucks](https://ytcards.demolab.com/?id=KgMJ0J7waMQ&title=Java+Sucks&lang=en&timestamp=1724256019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Java Sucks")](https://www.youtube.com/watch?v=KgMJ0J7waMQ)
-[![Learn Java OOP with Code](https://ytcards.demolab.com/?id=TiccevwEVe8&title=Learn+Java+OOP+with+Code&lang=en&timestamp=1723212033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1784 "Learn Java OOP with Code")](https://www.youtube.com/watch?v=TiccevwEVe8)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvaise-mohd&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
